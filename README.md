@@ -1,0 +1,2 @@
+# Blinkit-Commerce-insights
+Blinkit
