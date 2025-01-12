@@ -61,7 +61,7 @@ Take a sneak peek at the dashboard visuals below:
 
 ![📦 Sales Tracking Section](https://github.com/anmol8070/Blinkit-Commerce-insights/blob/fd63a16cdb7184a1247380dd33c66633191859a3/blinkit%20sale%20by%20item-1.png)
 
-> **Note**: Replace the placeholder images above with actual screenshots of your dashboard sections for better clarity. 🖼️✨
+>**Pro Tip**: Use high-resolution screenshots of your dashboard sections to enhance the clarity and impact of the visuals. 🖼️✨
 
 ## 🤝 Contributing
 We ❤️ contributions! Here’s how you can help:
