@@ -1,4 +1,3 @@
-
 # Blinlit Commerce Insight 🚀
 
 ## 🌟 Overview
@@ -22,7 +21,9 @@ Whether you're analyzing performance across regions 🌍, tracking customer loya
 ## ⚙️ Setup
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/blinlit-commerce-dashboard.git
+   git clone https://github.com/anmol8070/Blinkit-Commerce-insights.git
+   
+   gh repo clone anmol8070/Blinkit-Commerce-insights
    ```
 2. Open the `.pbix` file in **Power BI Desktop**. 🖥️
 3. Update the data connection settings to link to your specific data sources. 🔗📂
