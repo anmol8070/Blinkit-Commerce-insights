@@ -54,11 +54,11 @@ To ensure the dashboard performs flawlessly, follow these steps:
 ## 👁️ Preview
 Take a sneak peek at the dashboard visuals below:
 
-![📈 Sales Analysis Section](./images/sales-analysis-preview.png)
+![📈  Total Sales Analysis Section](https://github.com/anmol8070/Blinkit-Commerce-insights/blob/fd63a16cdb7184a1247380dd33c66633191859a3/blinkit%20Sales%20analysis%201.png)
 
-![👥 Customer Insights Section](./images/customer-insights-preview.png)
+![👥 Sale by Item Insights Section](https://github.com/anmol8070/Blinkit-Commerce-insights/blob/fd63a16cdb7184a1247380dd33c66633191859a3/blinkit%20Sales%20analysis%202.png)
 
-![📦 Inventory Tracking Section](./images/inventory-tracking-preview.png)
+![📦 Sales Tracking Section](https://github.com/anmol8070/Blinkit-Commerce-insights/blob/fd63a16cdb7184a1247380dd33c66633191859a3/blinkit%20sale%20by%20item-1.png)
 
 > **Note**: Replace the placeholder images above with actual screenshots of your dashboard sections for better clarity. 🖼️✨
 
